@@ -1,4 +1,4 @@
-# data-analysis project for Greate learning academy (Master Data Analytics in SQL & Excel Final project)
+# Data-analysis project for Greate learning academy (Master Data Analytics in SQL & Excel Final project)
 Terro's Real Estate Agency Project
 Overview
 This project focuses on analyzing the factors that impact housing prices for Terro's Real Estate Agency, where the goal is to understand the relationship between various property and neighborhood characteristics and the median house value (MEDV). As an Auditor, your primary task is to evaluate and quantify these relationships to provide actionable insights to the agency.
